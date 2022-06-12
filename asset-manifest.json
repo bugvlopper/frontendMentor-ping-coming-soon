@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/frontendMentor-ping-coming-soon/static/css/main.1154c390.css",
-    "main.js": "/frontendMentor-ping-coming-soon/static/js/main.db711e15.js",
+    "main.js": "/frontendMentor-ping-coming-soon/static/js/main.5d65765d.js",
     "static/js/787.39d279e5.chunk.js": "/frontendMentor-ping-coming-soon/static/js/787.39d279e5.chunk.js",
     "static/media/illustration-dashboard.png": "/frontendMentor-ping-coming-soon/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
     "index.html": "/frontendMentor-ping-coming-soon/index.html",
     "main.1154c390.css.map": "/frontendMentor-ping-coming-soon/static/css/main.1154c390.css.map",
-    "main.db711e15.js.map": "/frontendMentor-ping-coming-soon/static/js/main.db711e15.js.map",
+    "main.5d65765d.js.map": "/frontendMentor-ping-coming-soon/static/js/main.5d65765d.js.map",
     "787.39d279e5.chunk.js.map": "/frontendMentor-ping-coming-soon/static/js/787.39d279e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1154c390.css",
-    "static/js/main.db711e15.js"
+    "static/js/main.5d65765d.js"
   ]
 }
