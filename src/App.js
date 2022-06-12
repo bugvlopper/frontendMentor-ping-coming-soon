@@ -20,6 +20,9 @@ class App extends Component {
     }else if(input.value === ""){
       form.classList.add('error-empty');
     }else{
+      if(form.classList.contains('error-empty')){
+        form.classList.remove('error-empty');
+      } 
       form.classList.add('error');
     }
   }
