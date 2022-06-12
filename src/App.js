@@ -18,6 +18,9 @@ class App extends Component {
       } 
       form.submit();
     }else if(input.value === ""){
+      if(form.classList.contains('error')){
+        form.classList.remove('error');
+      }
       form.classList.add('error-empty');
     }else{
       if(form.classList.contains('error-empty')){
